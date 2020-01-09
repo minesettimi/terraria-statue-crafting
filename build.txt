@@ -1,0 +1,3 @@
+displayName = Statue Crafting
+author = Minesettimi
+version = 1.0
